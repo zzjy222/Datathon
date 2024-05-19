@@ -7,4 +7,4 @@ Throughout the years, Urban Edge Apparel has meticulously recorded each transact
 Solution: 
 Our machine learning model use SARIMA Model to predict company as whole, pre product, pre country total selling price for next two year. 
 
-Tableau story: 
+Tableau story: https://public.tableau.com/views/UrbanEdgeApparelRetailVisuals2024/UrbanEdgeApparel?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
